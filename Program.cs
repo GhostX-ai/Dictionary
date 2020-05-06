@@ -11,6 +11,10 @@ namespace Dictionary
             Console.ReadKey();
         }
     }
+    class MyDictionary<t, m>
+    {
+
+    }
     class MyList<t>
     {
         t[] li;
